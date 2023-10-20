@@ -3,5 +3,5 @@ The ArgumentManager Python library is designed to simplify the process of adding
 
 
 ## Project Status
-This project is not ready for public use yet. We are actively working on it and plan to share it with the community in the near future.
+This project is not ready for public use yet.
 
